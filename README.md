@@ -1,6 +1,6 @@
 #Treadstone
 
-A jQuery plugin for converting XML to JSON based on an intuitive templating language.
+A jQuery plugin for converting XML to JSON based on an intuitive templating syntax.
 
 ##What is Operation Treadstone?
 
