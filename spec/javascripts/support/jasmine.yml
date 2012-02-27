@@ -49,6 +49,8 @@ helpers:
 #   - **/*[sS]pec.js
 #
 spec_files:
+  - fixtures.js
+  - **/*[sS]pec.js
 
 # src_dir
 #
